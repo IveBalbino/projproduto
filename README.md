@@ -12,4 +12,6 @@ Na criação deste modelo desta API foi utilizando:
              - productRepository.js
      
     - padrão MVC (Model-View-Controller) na arquitetura de desenvolvimento da API
+
+* É necessário executar o comando de instalação das dependências para que o modelo possa funcionar
      
